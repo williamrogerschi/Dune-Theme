@@ -1,0 +1,21 @@
+{
+  "name": "dune-theme",
+  "displayName": "Dune-Theme",
+  "description": "Dune Inspired Theme w/ Sandy Eearthy Tones",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dune Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dune Theme-color-theme.json"
+      }
+    ]
+  }
+}
