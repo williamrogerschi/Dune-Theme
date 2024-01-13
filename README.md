@@ -1,4 +1,4 @@
-<h1>Dune Theme</h1>
+<h1>Dune Theme</h1> 🌒
 
 
 <h3>Description</h3>
