@@ -4,6 +4,7 @@
   "description": "Dune Inspired Theme w/ Sandy Eearthy Tones",
   "version": "0.0.1",
   "icon": "assets/trippy.jpg",
+  "publisher": "DuneTheme",
   "repository": {
     "type": "git",
     "url": "https://github.com/williamrogerschi/Dune-Theme"
